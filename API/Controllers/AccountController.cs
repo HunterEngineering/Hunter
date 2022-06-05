@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Hunter.API.Controllers
 {
+    //////////////
     [Route("api/[controller]")]
     [ApiController]
     public class AccountController : ControllerBase
