@@ -1,0 +1,5 @@
+2022-06-05 10:22:58.599 -04:00 [INF] Now listening on: https://localhost:7125
+2022-06-05 10:22:58.623 -04:00 [INF] Now listening on: http://localhost:5125
+2022-06-05 10:22:58.626 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 10:22:58.626 -04:00 [INF] Hosting environment: Development
+2022-06-05 10:22:58.626 -04:00 [INF] Content root path: E:\Hunter Upgrade 13 6\Hunter\api\

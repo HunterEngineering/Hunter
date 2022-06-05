@@ -1,0 +1,16 @@
+2022-05-24 15:16:28.932 -04:00 [WRN] The relationship was separated into two relationships because the [ForeignKey] attribute specified on the navigation 'Team.Projects' doesn't match the [ForeignKey] attribute specified on the property 'Project.TeamId'.
+2022-05-24 15:16:29.139 -04:00 [WRN] The relationship was separated into two relationships because the [ForeignKey] attribute specified on the navigation 'Team.Projects' doesn't match the [ForeignKey] attribute specified on the property 'Project.TeamId'.
+2022-05-24 18:48:35.381 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;
+2022-05-24 19:03:06.590 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;

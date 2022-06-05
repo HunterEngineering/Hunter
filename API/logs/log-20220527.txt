@@ -1,0 +1,8 @@
+2022-05-27 08:29:23.745 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Companys] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NULL,
+    [Billing] nvarchar(max) NULL,
+    [Region] nvarchar(max) NULL,
+    CONSTRAINT [PK_Companys] PRIMARY KEY ([Id])
+);

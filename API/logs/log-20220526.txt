@@ -1,0 +1,35 @@
+2022-05-26 15:13:47.354 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;
+2022-05-26 16:05:04.286 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;
+2022-05-26 16:07:39.462 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;
+2022-05-26 16:11:24.155 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;
+2022-05-26 16:55:26.518 -04:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] ON;
+INSERT INTO [Ghosts] ([Id], [Era], [Name], [ProjectId], [initialEra], [isActive])
+VALUES (1, 0, NULL, 0, N'', CAST(1 AS bit));
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Era', N'Name', N'ProjectId', N'initialEra', N'isActive') AND [object_id] = OBJECT_ID(N'[Ghosts]'))
+    SET IDENTITY_INSERT [Ghosts] OFF;
