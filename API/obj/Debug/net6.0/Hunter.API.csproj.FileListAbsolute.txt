@@ -1254,3 +1254,4 @@ E:\Hunter\api\obj\Debug\net6.0\refint\Hunter.API.dll
 E:\Hunter\api\obj\Debug\net6.0\Hunter.API.pdb
 E:\Hunter\api\obj\Debug\net6.0\Hunter.API.genruntimeconfig.cache
 E:\Hunter\api\obj\Debug\net6.0\ref\Hunter.API.dll
+E:\Hunter\api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll

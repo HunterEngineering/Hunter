@@ -11,10 +11,12 @@ namespace Hunter.API.Controllers
     public class AccountController : ControllerBase
     {
         private readonly IAuthManager _authManager;
+        private readonly ILogger _logger;
 
-        public AccountController(IAuthManager authManager)
+        public AccountController(IAuthManager authManager, ILogger<AccountController> logger)
         {
             this._authManager = authManager;
+            _logger = logger;
         }
 
         // api/Account/register
@@ -48,10 +50,12 @@ namespace Hunter.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult> Login([FromBody] LoginDto loginDto)
         {
+            _logger.LogInformation($"Account Controller login for {loginDto.UserName}");
             var authResponse = await _authManager.Login(loginDto);
 
             if (authResponse is null)
             {
+                _logger.LogInformation($"Account Controller {loginDto.UserName} failed");
                 return Unauthorized();
             }
 
