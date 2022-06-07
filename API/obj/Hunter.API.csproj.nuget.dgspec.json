@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Hunter Upgrade 13 6\\Hunter\\api\\Hunter.API.csproj": {}
+    "E:\\Hunter\\api\\Hunter.API.csproj": {}
   },
   "projects": {
-    "E:\\Hunter Upgrade 13 6\\Hunter\\api\\Hunter.API.csproj": {
+    "E:\\Hunter\\api\\Hunter.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Hunter Upgrade 13 6\\Hunter\\api\\Hunter.API.csproj",
+        "projectUniqueName": "E:\\Hunter\\api\\Hunter.API.csproj",
         "projectName": "Hunter.API",
-        "projectPath": "E:\\Hunter Upgrade 13 6\\Hunter\\api\\Hunter.API.csproj",
+        "projectPath": "E:\\Hunter\\api\\Hunter.API.csproj",
         "packagesPath": "C:\\Users\\princ\\.nuget\\packages\\",
-        "outputPath": "E:\\Hunter Upgrade 13 6\\Hunter\\api\\obj\\",
+        "outputPath": "E:\\Hunter\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
