@@ -1,0 +1,5 @@
+2022-06-10 11:06:04.896 -04:00 [INF] Now listening on: https://localhost:7125
+2022-06-10 11:06:04.919 -04:00 [INF] Now listening on: http://localhost:5125
+2022-06-10 11:06:04.921 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-10 11:06:04.922 -04:00 [INF] Hosting environment: Development
+2022-06-10 11:06:04.922 -04:00 [INF] Content root path: E:\Hunter Test NGOnly\API\

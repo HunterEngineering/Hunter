@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e7a9db32-6b8d-45fe-8312-f18b3cda59e4/microsoft.web/sites/subscriptions/e7a9db32-6b8d-45fe-8312-f18b3cda59e4/resourceGroups/HunterNet6-ResourceGroup/providers/Microsoft.Web/sites/az-HunterNet6-API",
+    "appService.deploySubpath": "client"
+}

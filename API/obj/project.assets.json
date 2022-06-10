@@ -10861,11 +10861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Hunter\\api\\Hunter.API.csproj",
+      "projectUniqueName": "E:\\Hunter Test NGOnly\\API\\Hunter.API.csproj",
       "projectName": "Hunter.API",
-      "projectPath": "E:\\Hunter\\api\\Hunter.API.csproj",
+      "projectPath": "E:\\Hunter Test NGOnly\\API\\Hunter.API.csproj",
       "packagesPath": "C:\\Users\\princ\\.nuget\\packages\\",
-      "outputPath": "E:\\Hunter\\api\\obj\\",
+      "outputPath": "E:\\Hunter Test NGOnly\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
